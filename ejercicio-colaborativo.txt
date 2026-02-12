@@ -1,4 +1,4 @@
-Sala: Vacío
+Sala: Sofá
 Cocina: Vacío
 Habitación: Vacío
 Jardín: Vacío
