@@ -1,4 +1,4 @@
-Sala: Vacía
-Cocina: Vacía
-Habitación: Vacía
+Sala: Vacío
+Cocina: Vacío
+Habitación: Vacío
 Jardín: Vacío
